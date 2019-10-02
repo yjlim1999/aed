@@ -1,0 +1,299 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:2:1-64:12
+INJECTED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:2:1-64:12
+INJECTED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:2:1-64:12
+MERGED from [:library] /Users/yunjie/Desktop/android-maps-utils/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/4ebe119ef6f785c66e1535b687fc1de5/play-services-maps-17.0.0/AndroidManifest.xml:17:1-38:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/d8deb9d6beecbef3ab79ccb5c3900007/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/a5efea8a57b73009606735879eaf190b/core-ktx-1.0.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/2f220e4626961757d61af53add94b7ee/play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/a7e70414efa4fb924893d29d7bfcecb5/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/8af9673f2ca3a6c0887132f8d41e6ba4/play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/84d22784334fd028cdf746ac44fa3342/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/04db46b0afaef16e8baa4753a037b9f8/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/e3eb8b15772ec829dcf209e8e802e713/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/47b340b0c8e357b683c33bb06ca19cf3/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/d6619324b7c4e0ec5a90342777471828/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/7d95adf5b88dd1f9089b34bd4d2e8a93/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/2b55f4dd1ddfb477bff2667016cc0a25/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/454541ed0d74e0d0babd214b189709ff/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/41c88a9f96e450bd637ed756ecda85b5/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/b275e0ac511ead6a0c329e93803bbcd1/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/65668fdc6b75dc53c12b7eb5f279be35/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/060334bf991aabc91fba7fe93737f90d/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/a2947b2bc56055381fd4cf778505ff5b/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.2] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/83dd696ebab5109b40aeb9f49d5069f8/core-1.0.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/563d9df2e00592c9851c330153c7bd3f/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/89da2d2b13f2717b13dbde907d33a117/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/1ec2dc6fe69a6fe7214f4bc479f47da3/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/1d0c7e854dcd581b455273fbcbc11e01/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/e5eed722b2004ca64fbe6c90991e06af/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/6d7a62f88f3d54b469312a470cec53c7/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/f6bc0e7d77e6892103599bafeb5668e7/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/598256249c7c77b96135e9aeda8121e5/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/a72cc53d82cf5702357646245a6e016a/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/439f22ecfa3eb2cee779567eba299ed4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/e5d23450977c2b96e566605cba9e8c80/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:2:1-64:12
+INJECTED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:2:1-64:12
+	package
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:3:5-49
+	android:versionName
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml
+		INJECTED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml
+		INJECTED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml
+permission#com.google.maps.android.utils.permission.MAPS_RECEIVE
+ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:7:5-9:47
+	android:protectionLevel
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:9:9-44
+	android:name
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:8:9-77
+uses-permission#com.google.maps.android.utils.permission.MAPS_RECEIVE
+ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:11:5-93
+	android:name
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:11:22-90
+uses-permission#android.permission.INTERNET
+ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:13:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/4ebe119ef6f785c66e1535b687fc1de5/play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/4ebe119ef6f785c66e1535b687fc1de5/play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:13:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:14:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/4ebe119ef6f785c66e1535b687fc1de5/play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/4ebe119ef6f785c66e1535b687fc1de5/play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:14:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:15:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:16:5-98
+	android:name
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:16:22-95
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:18:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:21:5-23:35
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/4ebe119ef6f785c66e1535b687fc1de5/play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/4ebe119ef6f785c66e1535b687fc1de5/play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:22:9-41
+	android:required
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:23:9-32
+application
+ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:25:5-62:19
+MERGED from [:library] /Users/yunjie/Desktop/android-maps-utils/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-11:19
+MERGED from [:library] /Users/yunjie/Desktop/android-maps-utils/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/4ebe119ef6f785c66e1535b687fc1de5/play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/4ebe119ef6f785c66e1535b687fc1de5/play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/2f220e4626961757d61af53add94b7ee/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/2f220e4626961757d61af53add94b7ee/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/a7e70414efa4fb924893d29d7bfcecb5/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/a7e70414efa4fb924893d29d7bfcecb5/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/8af9673f2ca3a6c0887132f8d41e6ba4/play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/8af9673f2ca3a6c0887132f8d41e6ba4/play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.2] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/83dd696ebab5109b40aeb9f49d5069f8/core-1.0.2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/83dd696ebab5109b40aeb9f49d5069f8/core-1.0.2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/563d9df2e00592c9851c330153c7bd3f/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/563d9df2e00592c9851c330153c7bd3f/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/83dd696ebab5109b40aeb9f49d5069f8/core-1.0.2/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:28:9-41
+	android:icon
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:27:9-45
+	android:allowBackup
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:26:9-36
+	android:theme
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:29:9-50
+meta-data#com.google.android.gms.version
+ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:31:9-33:69
+MERGED from [:library] /Users/yunjie/Desktop/android-maps-utils/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-10:69
+MERGED from [:library] /Users/yunjie/Desktop/android-maps-utils/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/8af9673f2ca3a6c0887132f8d41e6ba4/play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/8af9673f2ca3a6c0887132f8d41e6ba4/play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:33:13-66
+	android:name
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:32:13-58
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:35:9-37:71
+	android:value
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:37:13-68
+	android:name
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:36:13-58
+activity#com.google.maps.android.utils.demo.MainActivity
+ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:39:9-46:20
+	android:label
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:41:13-45
+	android:name
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:40:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:42:13-45:29
+action#android.intent.action.MAIN
+ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:44:27-74
+activity#com.google.maps.android.utils.demo.PolyDecodeDemoActivity
+ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:48:9-60
+	android:name
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:48:19-57
+activity#com.google.maps.android.utils.demo.PolySimplifyDemoActivity
+ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:49:9-62
+	android:name
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:49:19-59
+activity#com.google.maps.android.utils.demo.IconGeneratorDemoActivity
+ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:50:9-63
+	android:name
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:50:19-60
+activity#com.google.maps.android.utils.demo.DistanceDemoActivity
+ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:51:9-58
+	android:name
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:51:19-55
+activity#com.google.maps.android.utils.demo.ClusteringDemoActivity
+ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:52:9-60
+	android:name
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:52:19-57
+activity#com.google.maps.android.utils.demo.BigClusteringDemoActivity
+ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:53:9-63
+	android:name
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:53:19-60
+activity#com.google.maps.android.utils.demo.VisibleClusteringDemoActivity
+ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:54:9-67
+	android:name
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:54:19-64
+activity#com.google.maps.android.utils.demo.CustomMarkerClusteringDemoActivity
+ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:55:9-72
+	android:name
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:55:19-69
+activity#com.google.maps.android.utils.demo.TileProviderAndProjectionDemo
+ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:56:9-67
+	android:name
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:56:19-64
+activity#com.google.maps.android.utils.demo.HeatmapsDemoActivity
+ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:57:9-58
+	android:name
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:57:19-55
+activity#com.google.maps.android.utils.demo.HeatmapsPlacesDemoActivity
+ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:58:9-64
+	android:name
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:58:19-61
+activity#com.google.maps.android.utils.demo.GeoJsonDemoActivity
+ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:59:9-57
+	android:name
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:59:19-54
+activity#com.google.maps.android.utils.demo.KmlDemoActivity
+ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:60:9-53
+	android:name
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml:60:19-50
+uses-sdk
+INJECTED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml
+INJECTED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml
+MERGED from [:library] /Users/yunjie/Desktop/android-maps-utils/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:library] /Users/yunjie/Desktop/android-maps-utils/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/4ebe119ef6f785c66e1535b687fc1de5/play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/4ebe119ef6f785c66e1535b687fc1de5/play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/d8deb9d6beecbef3ab79ccb5c3900007/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/d8deb9d6beecbef3ab79ccb5c3900007/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/a5efea8a57b73009606735879eaf190b/core-ktx-1.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/a5efea8a57b73009606735879eaf190b/core-ktx-1.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/2f220e4626961757d61af53add94b7ee/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/2f220e4626961757d61af53add94b7ee/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/a7e70414efa4fb924893d29d7bfcecb5/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/a7e70414efa4fb924893d29d7bfcecb5/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/8af9673f2ca3a6c0887132f8d41e6ba4/play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/8af9673f2ca3a6c0887132f8d41e6ba4/play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/84d22784334fd028cdf746ac44fa3342/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/84d22784334fd028cdf746ac44fa3342/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/04db46b0afaef16e8baa4753a037b9f8/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/04db46b0afaef16e8baa4753a037b9f8/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/e3eb8b15772ec829dcf209e8e802e713/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/e3eb8b15772ec829dcf209e8e802e713/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/47b340b0c8e357b683c33bb06ca19cf3/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/47b340b0c8e357b683c33bb06ca19cf3/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/d6619324b7c4e0ec5a90342777471828/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/d6619324b7c4e0ec5a90342777471828/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/7d95adf5b88dd1f9089b34bd4d2e8a93/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/7d95adf5b88dd1f9089b34bd4d2e8a93/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/2b55f4dd1ddfb477bff2667016cc0a25/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/2b55f4dd1ddfb477bff2667016cc0a25/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/454541ed0d74e0d0babd214b189709ff/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/454541ed0d74e0d0babd214b189709ff/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/41c88a9f96e450bd637ed756ecda85b5/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/41c88a9f96e450bd637ed756ecda85b5/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/b275e0ac511ead6a0c329e93803bbcd1/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/b275e0ac511ead6a0c329e93803bbcd1/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/65668fdc6b75dc53c12b7eb5f279be35/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/65668fdc6b75dc53c12b7eb5f279be35/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/060334bf991aabc91fba7fe93737f90d/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/060334bf991aabc91fba7fe93737f90d/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/a2947b2bc56055381fd4cf778505ff5b/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/a2947b2bc56055381fd4cf778505ff5b/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/83dd696ebab5109b40aeb9f49d5069f8/core-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/83dd696ebab5109b40aeb9f49d5069f8/core-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/563d9df2e00592c9851c330153c7bd3f/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/563d9df2e00592c9851c330153c7bd3f/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/89da2d2b13f2717b13dbde907d33a117/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/89da2d2b13f2717b13dbde907d33a117/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/1ec2dc6fe69a6fe7214f4bc479f47da3/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/1ec2dc6fe69a6fe7214f4bc479f47da3/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/1d0c7e854dcd581b455273fbcbc11e01/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/1d0c7e854dcd581b455273fbcbc11e01/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/e5eed722b2004ca64fbe6c90991e06af/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/e5eed722b2004ca64fbe6c90991e06af/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/6d7a62f88f3d54b469312a470cec53c7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/6d7a62f88f3d54b469312a470cec53c7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/f6bc0e7d77e6892103599bafeb5668e7/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/f6bc0e7d77e6892103599bafeb5668e7/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/598256249c7c77b96135e9aeda8121e5/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/598256249c7c77b96135e9aeda8121e5/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/a72cc53d82cf5702357646245a6e016a/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/a72cc53d82cf5702357646245a6e016a/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/439f22ecfa3eb2cee779567eba299ed4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/439f22ecfa3eb2cee779567eba299ed4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/e5d23450977c2b96e566605cba9e8c80/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/e5d23450977c2b96e566605cba9e8c80/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml
+INJECTED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml
+		INJECTED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml
+		INJECTED from /Users/yunjie/Desktop/android-maps-utils/demo/AndroidManifest.xml
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/4ebe119ef6f785c66e1535b687fc1de5/play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/4ebe119ef6f785c66e1535b687fc1de5/play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/4ebe119ef6f785c66e1535b687fc1de5/play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/2f220e4626961757d61af53add94b7ee/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/2f220e4626961757d61af53add94b7ee/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/2f220e4626961757d61af53add94b7ee/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/yunjie/.gradle/caches/transforms-2/files-2.1/2f220e4626961757d61af53add94b7ee/play-services-base-17.0.0/AndroidManifest.xml:24:13-79

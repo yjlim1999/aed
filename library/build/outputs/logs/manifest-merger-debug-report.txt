@@ -1,0 +1,27 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yunjie/Desktop/android-maps-utils/library/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/yunjie/Desktop/android-maps-utils/library/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/yunjie/Desktop/android-maps-utils/library/AndroidManifest.xml:2:1-11:12
+	package
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/library/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/yunjie/Desktop/android-maps-utils/library/AndroidManifest.xml
+		INJECTED from /Users/yunjie/Desktop/android-maps-utils/library/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/library/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/yunjie/Desktop/android-maps-utils/library/AndroidManifest.xml:5:5-10:19
+meta-data#com.google.android.gms.version
+ADDED from /Users/yunjie/Desktop/android-maps-utils/library/AndroidManifest.xml:6:9-8:69
+	android:value
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/library/AndroidManifest.xml:8:13-66
+	android:name
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/library/AndroidManifest.xml:7:13-58
+uses-sdk
+INJECTED from /Users/yunjie/Desktop/android-maps-utils/library/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/yunjie/Desktop/android-maps-utils/library/AndroidManifest.xml
+INJECTED from /Users/yunjie/Desktop/android-maps-utils/library/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yunjie/Desktop/android-maps-utils/library/AndroidManifest.xml
+		ADDED from /Users/yunjie/Desktop/android-maps-utils/library/AndroidManifest.xml
+		INJECTED from /Users/yunjie/Desktop/android-maps-utils/library/AndroidManifest.xml
